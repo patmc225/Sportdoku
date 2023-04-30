@@ -1,3 +1,5 @@
+![Sportdoku Preview](https://github.com/patmc225/Sportdoku/blob/main/Image.png)
+
 # Sportdoku
 ## Sudoku, but with NFL players instead of numbers.
 
