@@ -4,7 +4,7 @@
 ## Sudoku, but with NFL players instead of numbers.
 
 <ul>
-  <li> Press "View raw" on ![this page](https://github.com/patmc225/Sportdoku/blob/main/Sportdoku.jar) to download and play. </li>
+  <li> Press "View raw" on [this page](https://github.com/patmc225/Sportdoku/blob/main/Sportdoku.jar) to download and play. </li>
   <li> Packaged as a JAR file. </li>
   <li> Displays a 6x6 board of NFL players with 12 open squares. </li>
   <li> The user must fill up the square as quick and with as little errors as possible </li>
