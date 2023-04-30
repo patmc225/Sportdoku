@@ -3,6 +3,7 @@
 # Sportdoku
 ## Sudoku, but with NFL players instead of numbers.
 
+[this page](https://github.com/patmc225/Sportdoku/blob/main/Sportdoku.jar)
 <ul>
   <li> Press "View raw" on [this page](https://github.com/patmc225/Sportdoku/blob/main/Sportdoku.jar) to download and play. </li>
   <li> Packaged as a JAR file. </li>
